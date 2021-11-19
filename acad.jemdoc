@@ -1,8 +1,16 @@
 # jemdoc: menu{MENU}{acad.html}
 = Projects
 
-== Subcarrier Estimation in OFDM Systems
-- COMP 3220 Principles of Programming Languages (Spring 2018)
+== [https://drive.google.com/drive/folders/10LNbr5DsmjoLkASKQenpydHaOOa8QL5C Subcarrier Estimation in OFDM Systems using Deep Learning]
+- Studied the working of OFDM systems, and various conventional methods for the blind estimation of number of
+subcarriers.
+- Generated the Dataset for received symbols on MATLAB, trained and tested a DNN model for estimating the
+number of subcarriers at the receiver for different modulation techniques.
+- Established a comparison to show our designed Deep learning model has better estimation accuracy than other
+statistical methods.
 
-== Design of 1KB DRAM using LTSpices
-- Comp 1000: Personal Computer Applications (Fall 2017)
+== [https://drive.google.com/drive/folders/11FSMJCfDT9kvpwHZAeIm5LP-f_yxnqjH Design of 1KB DRAM using LTSpice]
+- Studied the layout and operation of DRAM cell, including the charging & discharging mechanism, pre-charging
+circuit and the sense amplifier.
+- Designed and Simulated a 1 KB DRAM using 1024 1-Transistor, 1-Capacitor memory cells using logic gates for
+multiplexing and the sense and send amplifier in LTspice .
