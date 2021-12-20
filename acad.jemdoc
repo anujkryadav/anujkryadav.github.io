@@ -9,8 +9,14 @@ number of subcarriers at the receiver for different modulation techniques.
 - Established a comparison to show our designed Deep learning model has better estimation accuracy than other
 statistical methods.
 
+== [ UAV assisted OFDM Communication Systems]
+- Studied the working of OFDM systems and other multiplexing techniques used in different cellular technologies.
+- Generated the dataset for received symbols in UAV based Communication System on MATLAB environment.
+- Designed and trained a Convolutional Neural Network (CNN) architecture for CFO equalization and trained the deep learning model.
+
 == [https://drive.google.com/drive/folders/11FSMJCfDT9kvpwHZAeIm5LP-f_yxnqjH Design of 1KB DRAM using LTSpice]
 - Studied the layout and operation of DRAM cell, including the charging & discharging mechanism, pre-charging
 circuit and the sense amplifier.
 - Designed and Simulated a 1 KB DRAM using 1024 1-Transistor, 1-Capacitor memory cells using logic gates for
 multiplexing and the sense and send amplifier in LTspice .
+
