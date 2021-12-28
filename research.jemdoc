@@ -54,7 +54,17 @@ Currently, we are also studying communication over the class of "myopic" AVCs in
 ~~~
 
 
-== Low Probability of Detection Problem
+== Reed Muller Codes for Covert Communication
 ~~~
 *Collaborators:* [https://perso-etis.ensea.fr/luzzi/ Prof. Laura Luzzi] (supervisor), and [https://perso-etis.ensea.fr/ligong.wang/ Prof. Ligong Wang]
+
+Covert communication or communication with low probability of detection or reliable-deniable communication is a exchange of messages between two or more users in a secret manner such that a third-party or adversary doesn't even gets to know if the parties are communicating with each other. To understand the problem, let's consider the following hypothetical example: Alice and Bob are criminals who in jail but with in different cells and want to exchange messages with each other such that the jailor of the jail (Eve) remains unknown of the fact that Alice and Bob are talking to each other.\n
+{{<center><img style= "width:15cm;" style="height:8cm;" src="cc1.jpg"></img></center>}}\n
+Noisy channels can be used as a significant resource for implementing covert communication. Mathematically, the goals in covert communication are as follows:\n
+1). Reliability: The receiver, Bob should be able to decode the message with low error probability (decreasing in blockength n). \n
+2). Deniability (Covertness): The adversary, Eve's observation should be statistically close (eg. small KL divergence) to random noise (output distribution induced when the transmitter is not sending any message, i.e., off-input symbol, say 0 is transmitted).\n
+{{<center><img style= "width:15cm;" style="height:8cm;" src="cc2.jpg"></img></center>}}\n
+Several works in communication have shown that the covert communication over different class of channels including discrete memoryless channels (DMCs) as well as the additive white gaussian noise (AWGN) channels follows the *square-root law* i.e., the number of information nats that can be transmitted covertly (k) over the channel grows proportionally to the square root of the total number of channel uses (n). In such transmissions, both the conditions i.e., reliability as well as deniability holds. It has been recently shown that the Reed Muller codes achieve capacity over any BMS (binary memoryless symmetric) channel in [https://arxiv.org/abs/2110.14631 \[RP21\]]. In our work, we focus of realizing covert communication over binary AWGN channel using Reed Muller codes. We are currently working on to show that using reed muller codes, both the conditions for the covert communication i.e., reliability and covertness can be achieved over a BI-AWGN channel such that the square-root law holds. 
+ 
+Example courtesy: [https://www.youtube.com/watch?v=RDimCBSkpmA \[Prof. Sid's talk\]]\n
 ~~~
