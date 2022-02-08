@@ -4,45 +4,60 @@
 
 This page includes the list of my research publications, some of which are published, under review and under preparation. Please feel free to contact me or my co-authors for the extended versions of the published work or preprints of the work yet to be published.\n
 
-*Remark:* Publications marked with asterisk *(\*)* follow aphabetical author order.
+*Remark:* Publications marked with *(A2Z)* follow aphabetical author order.
+
+== Journals
+
+
+- [https://ieeexplore.ieee.org/document/9678372 *On Reverse Elastic Channels and the Asymmetry of Commitment Capacity under Channel Elasticity*] ([https://arxiv.org/abs/2111.08477 *arXiv Version*])\n
+*(A2Z)* [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], \*Pranav Joshi, [https://manideepmamindlapally.ninja/ \*Manideep Mamindlapally], and *\*Anuj Kumar Yadav*\n
+2022 IEEE Journal on Selected Areas in Communications (JSAC-PIR).\n
+(*: Equal Contributions)
 
 == Conferences
 
-- [https://ieeexplore.ieee.org/document/9518204  *Commitment Capacity under Cost Constraints*]\n
-[https://manideepmamindlapally.ninja/ Manideep Mamindlapally], *Anuj Kumar Yadav*, [https://www.niser.ac.in/users/manojmishra Manoj Mishra], and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley]\n
-2021 IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia.
-
-- [https://ieeexplore.ieee.org/document/9530060 *Commitment over Compound Binary Symmetric Channels*]\n
-*Anuj Kumar Yadav*, [https://manideepmamindlapally.ninja/ Manideep Mamindlapally], [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], and [https://www.niser.ac.in/users/manojmishra Manoj Mishra]\n
-2021 (IEEE) Twenty-seventh National Conference on Communications (NCC), Kanpur, India.
-
-- [https://ieeexplore.ieee.org/document/9611485 *On the Commitment Capacity of Reverse Elastic Channels*]\n
-*(\*)* [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], Pranav Joshi, [https://manideepmamindlapally.ninja/ Manideep Mamindlapally], and *Anuj Kumar Yadav*\n
-2021 IEEE Information Theory Workshop (ITW), Kanazawa, Japan.
 
 - [https://ieeexplore.ieee.org/document/9668465 *On Commitment over General Compound Channels*]\n
 *Anuj Kumar Yadav*, [https://manideepmamindlapally.ninja/ Manideep Mamindlapally], Pranav Joshi and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley]\n
 2022 IEEE International Conference on Communications Systems and Networks (COMSNETS), Bangalore, India.
 
-- *New Results on Omniscient and Myopic Arbitrarily Varying Channels* (Under Preparation)\n
-*Anuj Kumar Yadav*, [https://sites.google.com/view/yihan/ Yihan Zhang], [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], and [https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi Sidharth Jaggi]\n
-To be submitted to 2022 IEEE International Symposium on Information Theory.
-== Journals
 
-- [https://ieeexplore.ieee.org/document/9678372 *On Reverse Elastic Channels and the Asymmetry of Commitment Capacity under Channel Elasticity*]\n
-*(\*)* [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], Pranav Joshi, [https://manideepmamindlapally.ninja/ Manideep Mamindlapally], and *Anuj Kumar Yadav*\n
-2022 IEEE Journal on Selected Areas in Communications (JSAC-PIR).
+- [https://ieeexplore.ieee.org/document/9611485 *On the Commitment Capacity of Reverse Elastic Channels*]\n
+*(A2Z)* [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], \*Pranav Joshi, [https://manideepmamindlapally.ninja/ \*Manideep Mamindlapally], and *\*Anuj Kumar Yadav*\n
+2021 IEEE Information Theory Workshop (ITW), Kanazawa, Japan.\n
+(*: Equal Contributions)
+
+- [https://ieeexplore.ieee.org/document/9530060 *Commitment over Compound Binary Symmetric Channels*]\n
+*Anuj Kumar Yadav*, [https://manideepmamindlapally.ninja/ Manideep Mamindlapally], [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], and [https://www.niser.ac.in/users/manojmishra Manoj Mishra]\n
+2021 IEEE Twenty-seventh National Conference on Communications (NCC), Kanpur, India.
+
+- [https://ieeexplore.ieee.org/document/9518204  *Commitment Capacity under Cost Constraints*]\n
+[https://manideepmamindlapally.ninja/ Manideep Mamindlapally], *Anuj Kumar Yadav*, [https://www.niser.ac.in/users/manojmishra Manoj Mishra], and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley]\n
+2021 IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia.
+
+
+== Preprints (Under Review/Under Preparation)
+
+
+- [ *New Results on AVCs with Omniscient and Myopic Adversaries*] (Under Review)\n
+*Anuj Kumar Yadav*, Mohammadreza Alimohammadi, [https://sites.google.com/view/yihan/ Yihan Zhang], [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], and [https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi Sidharth Jaggi]\n
+2022 IEEE International Symposium on Information Theory (ISIT).
+
+- [https://ieeexplore.ieee.org/document/9611485 *On the (Im)possibility of Commitment Over Gaussian Unfair Noisy Channels*] (Under Review)\n
+*(A2Z)* [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], \*Pranav Joshi, [https://manideepmamindlapally.ninja/ \*Manideep Mamindlapally], and *\*Anuj Kumar Yadav*\n
+2022 IEEE International Symposium on Information Theory (ISIT).\n
+(*: Equal Contributions)
 
 - [ *Oblivious Transfer over Compound Binary Erasure Channels*] (Under Review)\n
 *Anuj Kumar Yadav* and [https://www.iitp.ac.in/index.php/en-us/people-2/faculty/2-uncategorised/194-view-profile-8 Preetam Kumar]\n
 2021 IEEE Communications Letters.
 
-- *Commitment Capacity under Cost Constraints* (Under Preparation)\n
-[https://manideepmamindlapally.ninja/ Manideep Mamindlapally], *Anuj Kumar Yadav*, [https://www.niser.ac.in/users/manojmishra Manoj Mishra], and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley]\n
-To be submitted to 2022 IEEE Tranactions on Information Theory.
-
-
-- *Commitment over Channels with Passive Unreliablity* (Under Preparation)\n
+- [ *Commitment over Channels with Passive Unreliablity*] (Under Preparation)\n
 *Anuj Kumar Yadav*, [https://manideepmamindlapally.ninja/ Manideep Mamindlapally], [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley], and [https://www.niser.ac.in/users/manojmishra Manoj Mishra]\n
-To be submitted to 2022 IEEE Transactions On Communications.
+To be submitted to 2022 IEEE Transactions in Communications.
+
+- [ *Commitment Capacity under Cost Constraints*] (Under Preparation)\n
+[https://manideepmamindlapally.ninja/ Manideep Mamindlapally], *Anuj Kumar Yadav*, [https://www.niser.ac.in/users/manojmishra Manoj Mishra], and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley]\n
+To be submitted to 2022 IEEE Tranactions in Information Theory.
+
 
