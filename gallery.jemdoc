@@ -1,0 +1,129 @@
+# jemdoc: menu{MENU}{gallery.html}
+==Serenity
+
+Along with exploring the flora and fauna around me, I also enjoy capturing the enchanting beauty of nature. I feel nature has a magical way of inspiring creativity, and capturing its beauty through photography is a way of immersing myself in the wonders of our planet and sharing those mesmerizing moments with others. Glimpses of those are below, from different places around the world.
+
+\n
+{{
+<div align="center">
+        <img src="images/l9.jpg" width="1050" height="500">
+        <p>
+            <b>Tamsui</b></br>
+            Taiwan
+        </p>
+        <img src="images/l2.jpg" width="1050" height="500">
+        <p>
+            <b>Stanserhorn</b></br>
+            Switzerland
+        </p>
+        <img src="images/l3.jpg" width="1100" height="550">
+        <p>
+            <b>Stanserhorn</b></br>
+            Switzerland
+        </p>
+        <img src="images/l4.jpg","images/l4.jpg" width="1050" height="500" >
+        <p>
+            <b>Oeschinensee</b></br>
+            Switzerland
+        </p>
+        <img src="images/l12.jpg" width="1100" height="550" align = "center">
+      <p>
+            <b>Plambuit</b></br>
+            Switzerland
+        </p>
+        <img src="images/l6.jpg" width="1050" height="500" align = "center">
+       <p>
+            <b>Les Avants</b></br>
+            Switzerland
+        </p>
+        <img src="images/l1.jpg","images/l7.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Locarno</b></br>
+            Switzerland
+        </p>
+        <img src="images/l10.jpg" width="1050" height="500" align = "center">
+       <p>
+            <b>Morcote</b></br>
+            Switzerland
+        </p>
+        <img src="images/l11.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Vex</b></br>
+            Switzerland
+        </p>
+</div>}}
+{{<div align="center">
+ <img src="images/p5.jpg" width="600" height="700" align = "center">
+       <p>
+            <b>Lavertezzo</b></br>
+            Switzerland
+        </p>
+        <img src="images/p3.jpg" width="450" height="600" align = "center">
+        <p>
+            <b>Lauterbrunnen</b></br>
+            Switzerland
+        </p>
+        <img src="images/p2.jpg" width="500" height="700" align = "center">
+      <p>
+            <b>Lausanne</b></br>
+            Switzerland
+        </p>
+       <img src="images/p1.jpg" width="500" height="700" align = "center">
+        <p>
+            <b>Lausanne</b></br>
+            Switzerland
+        </p> 
+        <img src="images/p22.jpg" width="500" height="700" align = "center">
+        <p>
+            <b>Lausanne</b></br>
+            Switzerland
+        </p> 
+        <img src="images/p7.jpg" width="400" height="600" align = "center">
+         <p>
+            <b>Les Avants</b></br>
+            Switzerland
+        </p>  
+        <img src="images/p8.jpg" width="400" height="600" align = "center">
+      <p>
+            <b>Evian-Les-Bains</b></br>
+            France
+        </p> 
+        <img src="images/p9.jpg" width="400" height="600" align = "center">
+         <p>
+            <b>Evian-Les-Bains</b></br>
+            France
+        </p> 
+        <img src="images/p11.jpg" width="400" height="600" align = "center">
+         <p>
+            <b>Bath</b></br>
+            England
+        </p> 
+        <img src="images/p12.jpg" width="400" height="600" align = "center">
+        <p>
+            <b>York</b></br>
+            England
+        </p>  
+        <img src="images/p14.jpg" width="400" height="600" align = "center">
+       <p>
+            <b>Turin</b></br>
+            Italy
+        </p>   
+        <img src="images/p15.jpg" width="400" height="600" align = "center">
+       <p>
+            <b>Turin</b></br>
+            Italy
+        </p>  
+        <img src="images/p16.jpg" width="400" height="600" align = "center">
+       <p>
+            <b>Zermatt</b></br>
+            Switzerland
+        </p>  
+        <img src="images/p17.jpg" width="400" height="600" align = "center">
+        <p>
+            <b>Zermatt</b></br>
+            Switzerland
+        </p>  
+</div>
+}}
+and others......
+\n
