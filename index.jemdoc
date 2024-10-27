@@ -1,27 +1,29 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Anuj Kumar Yadav
+== Anuj K. Yadav
 
 ~~~
-{}{img_left}{anujky.jpeg}{aky}{205.8px}{265.4px}
+{}{img_left}{anujkyy.jpg}{aky}{259.8px}{265.8px}
 #{}{img_left}{chao.jpg}{aky}{}{300}
 
-Anuj Kumar Yadav \n
+Anuj Yadav \n
 PhD Candidate \n 
 [https://www.epfl.ch/schools/ic/ipg/ Information Processing Group] \n
 [https://www.epfl.ch/schools/ic/ School of Computer and Communication Sciences (IC)] \n
 [http://www.epfl.ch/ École Polytechnique Fédérale de Lausanne (EPFL)]  \n
 Lausanne, Switzerland. \n
 
+
+
 Contact: \n
 [anujyadav@ieee.org Email]\n 
 ~~~
 
 == Short Bio 
-I am a second year PhD candidate affiliated with the [https://www.epfl.ch/schools/ic/ipg/ Information Processing Group (IPG)] in the [https://www.epfl.ch/schools/ic/ School of Computer and Communication Sciences] at the [https://www.epfl.ch/ Swiss Federal Institute of Technology Lausanne (EPFL)], Switzerland. I am fortunate to be advised by [https://people.epfl.ch/yanina.shkel/?lang=en Yanina Shkel] and [https://people.epfl.ch/michael.gastpar/?lang=en Michael Gastpar]. My research interests broadly lie in the union of theoretical computer science, privacy, and communications. Beyond my research endeavors, I spend time exploring the flora and fauna around me, learning languages, and reading articles on Psychology and International Relations. \n
+I am a third year PhD candidate affiliated with the [https://www.epfl.ch/schools/ic/ipg/ Information Processing Group (IPG)] in the [https://www.epfl.ch/schools/ic/ School of Computer and Communication Sciences] at the [https://www.epfl.ch/ Swiss Federal Institute of Technology Lausanne (EPFL)], Switzerland. I am fortunate to be advised by [https://people.epfl.ch/yanina.shkel/?lang=en Yanina Shkel] and [https://people.epfl.ch/michael.gastpar/?lang=en Michael Gastpar]. My research interests broadly lie in the union of theoretical computer science, privacy, and communications. Beyond my research endeavors, I spend time exploring the flora and fauna around me, learning languages, and reading articles on Psychology and International Relations. \n
 
-In the Summers of 2024, I am at the [https://en.wikipedia.org/wiki/Bell_Labs Bell Labs] where I am working with [https://scholar.google.de/citations?user=AT7ZiYYAAAAJ&hl=de Christoph Fuellner] and [https://scholar.google.de/citations?user=f-B6HMwAAAAJ&hl=en Rene Bonk] on building robust access Passive Optical Networks (PONs).\n
+I spent the summers of 2024 at the [https://en.wikipedia.org/wiki/Bell_Labs Bell Labs] where I worked with [https://scholar.google.de/citations?user=AT7ZiYYAAAAJ&hl=de Christoph Fuellner] and [https://scholar.google.de/citations?user=f-B6HMwAAAAJ&hl=en Rene Bonk] on building robust access Passive Optical Networks (PONs).\n
 
-Previously, I did my bachelors with a B.Tech in Electrical Engineering from the [https://www.iitp.ac.in/ Indian Institute of Technology Patna (IIT-P)] in India. I have been fortunate to have worked with [https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi Sidharth Jaggi] (University of Bristol), [http://www.facweb.iitkgp.ac.in/~amitalok/ Amitalok Budkuley] (IIT Kharagpur), [https://sites.google.com/view/yihan/ Yihan Zhang] (IST Austria), [https://perso-etis.ensea.fr/luzzi/ Laura Luzzi] (ENSEA, CNRS), and [https://www.iitp.ac.in/index.php/en-us/people-2/faculty/2-uncategorised/194-view-profile-8 Preetam Kumar] (IIT Patna) during my undergraduate degree. My bachelors thesis titled 'Secure two-party computation: Information-theoretic Oblivious Transfer', received the Institute Proficiency award for the best thesis in my cohort. \n
+Previously, I completed my bachelors with a B.Tech in Electrical Engineering from the [https://www.iitp.ac.in/ Indian Institute of Technology Patna (IIT-P)] in India. I have been fortunate to have worked with [https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi Sidharth Jaggi] (University of Bristol), [http://www.facweb.iitkgp.ac.in/~amitalok/ Amitalok Budkuley] (IIT Kharagpur), [https://sites.google.com/view/yihan/ Yihan Zhang] (IST Austria), [https://perso-etis.ensea.fr/luzzi/ Laura Luzzi] (ENSEA, CNRS), and [https://www.iitp.ac.in/index.php/en-us/people-2/faculty/2-uncategorised/194-view-profile-8 Preetam Kumar] (IIT Patna) on different projects during my undergraduate. My bachelors thesis titled 'Secure two-party computation: Information-theoretic Oblivious Transfer', received the Institute Proficiency award for the best thesis in my cohort. \n
 
 
 == Education 
@@ -37,14 +39,9 @@ My specific Research Interests include:
  - Privacy & Cryptography
  - Communications \n
 
-== News 
-
-- \[07-2024\] Presented our accepted work on "Wiretapped Commitment over Binary Channels" at the [https://isit2024.org ISIT 2024] in Athens, Greece.
-- \[07-2023\] Presented a poster on "Minimum Entropy Couplings and Functional Representations" at the [https://www.bristol.ac.uk/maths/events/2023/esit-2023.html ESIT 2023] in Bristol, United Kingdom.
-- \[06-2023\] Presented our accepted works on "Minimum Entropy Couplings" and "Commitment over Gaussian Channels" at the [https://isit2023.org ISIT 2023] in Taipei, Taiwan.
-- \[05-2022\] Our work has been featured in the IEEE Communication Society's (ComSoc) [https://www.comsoc.org/publications/blogs/selected-ideas-communications/detecting-cheaters-digital-interactions-using-noisy-channels-and-error-control-coding "Blog on Selected Ideas in Communications"] by the Editor in Chief of IEEE JSAC.
+== News
+- \[05-2022\] Our work was featured in the IEEE Communication Society's (ComSoc) [https://www.comsoc.org/publications/blogs/selected-ideas-communications/detecting-cheaters-digital-interactions-using-noisy-channels-and-error-control-coding "Blog on Selected Ideas in Communications"] by the Editor in Chief of IEEE JSAC.
 - \[08-2021\] Presented a poster on "Rate Positivity for Arbitrarily Varying Channels" at the [https://cscit.ie.cuhk.edu.hk/ CSCIT 2021] in Hong Kong. 
-- \[07-2021\] Presented our accepted paper on "Commitment over Compound Binary Symmetric Channels" at the [https://www.iitk.ac.in/ncc2021/ NCC 2021] conference in Kanpur, India. 
 - \[07-2021\] Presented a poster with Manideep on "Role of Costs in Commitment over Noisy Channels" at the [https://conferences.ece.ubc.ca/nasit2021/ NASIT 2021] in Vancouver, Canada. 
 - \[06-2021\] Received 2021 [https://www.itsoc.org/news/isit-scholarships-undergraduates-groups-currently-underrepresented-itsoc-0 IEEE ITSoc Undergraduate Scholarship] by the *IEEE Information Theory Society*.
 
