@@ -6,12 +6,12 @@ Along with exploring the flora and fauna around me, I also enjoy capturing the e
 \n
 {{
 <div align="center">
-        <img src="images/l9.jpg" width="1050" height="500">
+        <img src="images/l9.jpg" width="1100" height="550">
         <p>
             <b>Tamsui</b></br>
             Taiwan
         </p>
-        <img src="images/l2.jpg" width="1050" height="500">
+        <img src="images/l2.jpg" width="1050" height="550">
         <p>
             <b>Stanserhorn</b></br>
             Switzerland
@@ -21,7 +21,7 @@ Along with exploring the flora and fauna around me, I also enjoy capturing the e
             <b>Stanserhorn</b></br>
             Switzerland
         </p>
-        <img src="images/l4.jpg","images/l4.jpg" width="1050" height="500" >
+        <img src="images/l4.jpg","images/l4.jpg" width="1050" height="550" >
         <p>
             <b>Oeschinensee</b></br>
             Switzerland
@@ -31,7 +31,7 @@ Along with exploring the flora and fauna around me, I also enjoy capturing the e
             <b>Plambuit</b></br>
             Switzerland
         </p>
-        <img src="images/l6.jpg" width="1050" height="500" align = "center">
+        <img src="images/l6.jpg" width="1050" height="550" align = "center">
        <p>
             <b>Les Avants</b></br>
             Switzerland
@@ -41,9 +41,9 @@ Along with exploring the flora and fauna around me, I also enjoy capturing the e
             <b>Locarno</b></br>
             Switzerland
         </p>
-        <img src="images/l10.jpg" width="1050" height="500" align = "center">
+        <img src="images/l10.jpg" width="1050" height="550" align = "center">
        <p>
-            <b>Morcote</b></br>
+            <b>Montreux</b></br>
             Switzerland
         </p>
         <img src="images/l11.jpg" width="1100" height="550" align = "center">
@@ -51,79 +51,159 @@ Along with exploring the flora and fauna around me, I also enjoy capturing the e
             <b>Vex</b></br>
             Switzerland
         </p>
-</div>}}
-{{<div align="center">
- <img src="images/p5.jpg" width="600" height="700" align = "center">
-       <p>
-            <b>Lavertezzo</b></br>
+        <img src="images/brienz.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Brienz</b></br>
             Switzerland
         </p>
-        <img src="images/p3.jpg" width="450" height="600" align = "center">
+        <img src="images/brienz1.jpg" width="1100" height="550" align = "center">
         <p>
-            <b>Lauterbrunnen</b></br>
+            <b>Brienz</b></br>
             Switzerland
         </p>
-        <img src="images/p2.jpg" width="500" height="700" align = "center">
-      <p>
-            <b>Lausanne</b></br>
+        <img src="images/brienz2.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Brienz</b></br>
             Switzerland
         </p>
-       <img src="images/p1.jpg" width="500" height="700" align = "center">
+       <img src="images/brienz3.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Brienz</b></br>
+            Switzerland
+        </p><img src="images/brienz4.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Brienz</b></br>
+            Switzerland
+        </p><img src="images/brienz5.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Brienz</b></br>
+            Switzerland
+        </p><img src="images/gruyeres.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Gruyeres</b></br>
+            Switzerland
+        </p><img src="images/lts.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Lichtenstein</b></br>
+            Germany
+        </p><img src="images/bavaria.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Bavaria</b></br>
+            Germany
+        </p><img src="images/baden31.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Baden Baden</b></br>
+            Germany
+        </p><img src="images/badenbaden.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Baden Baden</b></br>
+            Germany
+        </p><img src="images/sion.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Sion</b></br>
+            Switzerland
+        </p><img src="images/neuchatel.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Neuchatel</b></br>
+            Switzerland
+        </p><img src="images/athens1.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Athens</b></br>
+            Greece
+        </p><img src="images/athens2.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Athens</b></br>
+            Greece
+        </p><img src="images/athens.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Athens</b></br>
+            Greece
+        </p><img src="images/athens3.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Athens</b></br>
+            Greece
+        </p><img src="images/athens4.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Athens</b></br>
+            Greece
+        </p><img src="images/blackforest.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Black Forest</b></br>
+            Germany
+        </p><img src="images/diab.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Les Diablerets</b></br>
+            Switzerland
+        </p><img src="images/diab1.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Les Diablerets</b></br>
+            Switzerland
+        </p><img src="images/diab2.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Les Diablerets</b></br>
+            Switzerland
+        </p><img src="images/lausanne1.jpg" width="1100" height="550" align = "center">
         <p>
             <b>Lausanne</b></br>
             Switzerland
-        </p> 
-        <img src="images/p22.jpg" width="500" height="700" align = "center">
+        </p><img src="images/lausanne2.jpg" width="1050" height="550" align = "center">
         <p>
             <b>Lausanne</b></br>
             Switzerland
-        </p> 
-        <img src="images/p7.jpg" width="400" height="600" align = "center">
-         <p>
-            <b>Les Avants</b></br>
+        </p><img src="images/lausanne3.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b> Lausanne </b></br>
             Switzerland
-        </p>  
-        <img src="images/p8.jpg" width="400" height="600" align = "center">
-      <p>
-            <b>Evian-Les-Bains</b></br>
-            France
-        </p> 
-        <img src="images/p9.jpg" width="400" height="600" align = "center">
-         <p>
-            <b>Evian-Les-Bains</b></br>
-            France
-        </p> 
-        <img src="images/p11.jpg" width="400" height="600" align = "center">
-         <p>
+        </p><img src="images/cps2.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Cape Sounion</b></br>
+            Greece
+        </p><img src="images/capesunion.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Cape Sounion</b></br>
+            Greece
+        </p><img src="images/hydra1.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Hydra Islands</b></br>
+            Greece
+        </p><img src="images/hydra2.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Hydra Islands</b></br>
+            Greece
+        </p> <img src="images/bristol.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Bristol</b></br>
+            England
+        </p><img src="images/taipei2.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Taipei</b></br>
+            Taiwan
+        </p><img src="images/taipei3.jpg" width="1050" height="550" align = "center">
+        <p>
+            <b>Taipei</b></br>
+            Taiwan
+        </p><img src="images/taipei4.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Taipei</b></br>
+            Taiwan
+        </p><img src="images/bath.jpg" width="1050" height="550" align = "center">
+        <p>
             <b>Bath</b></br>
             England
-        </p> 
-        <img src="images/p12.jpg" width="400" height="600" align = "center">
+        </p><img src="images/zaanseschans.jpg" width="1100" height="550" align = "center">
         <p>
-            <b>York</b></br>
-            England
-        </p>  
-        <img src="images/p14.jpg" width="400" height="600" align = "center">
-       <p>
-            <b>Turin</b></br>
-            Italy
-        </p>   
-        <img src="images/p15.jpg" width="400" height="600" align = "center">
-       <p>
-            <b>Turin</b></br>
-            Italy
-        </p>  
-        <img src="images/p16.jpg" width="400" height="600" align = "center">
-       <p>
-            <b>Zermatt</b></br>
-            Switzerland
-        </p>  
-        <img src="images/p17.jpg" width="400" height="600" align = "center">
+            <b>Zaanse Schans</b></br>
+            The Netherlands
+        </p><img src="images/interlaken.jpg" width="1050" height="550" align = "center">
         <p>
-            <b>Zermatt</b></br>
+            <b>Interlaken</b></br>
             Switzerland
-        </p>  
-</div>
-}}
+        </p><img src="images/cps4.jpg" width="1100" height="550" align = "center">
+        <p>
+            <b>Cape Sounion</b></br>
+            Greece
+        </p>
+</div>}}
+
 and others......
 \n
