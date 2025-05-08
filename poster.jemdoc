@@ -3,9 +3,13 @@
 
 == Posters
 
+- *Minimum Rényi Entropy Couplings* ([esit25_mec_aky.pdf Poster])\n
+Anuj Kumar Yadav\n
+[hhttps://r8.ieee.org/italy-its/ieee-esit-2025/ 2025 European School in Information Theory (ESIT)], Ancona, Italy.\n
+
 - *Information Spectrum Converse for Minimum Entropy Couplings and Functional Representations* ([esit_poster.pdf Poster])\n
 Anuj Kumar Yadav\n
-[https://cscit.ie.cuhk.edu.hk/ 2023 European School in Information Theory (ESIT)], Bristol, United Kingdom.\n
+[https://www.bristol.ac.uk/maths/events/2023/esit-2023.html 2023 European School in Information Theory (ESIT)], Bristol, United Kingdom.\n
 
 - *Rate Positivity for Arbitrarily Varying Channels* ([CSCIT_2021_Abstract.pdf Abstract]) ([CSCIT_Poster.pdf Poster])\n
 Anuj Kumar Yadav\n
@@ -15,7 +19,6 @@ Anuj Kumar Yadav\n
 Anuj Kumar Yadav and [https://manideepmamindlapally.ninja/ Manideep Mamindlapally]\n
 [http://conferences.ece.ubc.ca/nasit2021/ 2021 IEEE North American School of Information Theory (NASIT)], UBC, Canada.\n
 
-
 - *Commitment Over Unreliable Channels* ([ISIT_RR_Abstract.pdf Abstract]) ([ISIT_RR_slides.pdf Slides])\n
 \*Pranav Joshi, [https://manideepmamindlapally.ninja/ \*Manideep Mamindlapally], \*Anuj Kumar Yadav, [ Manoj Mishra], and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley]\n
 2021 IEEE International Symposium on Information Theory (ISIT) Recent Results, Melbourne, Australia.\n
@@ -24,9 +27,11 @@ Anuj Kumar Yadav and [https://manideepmamindlapally.ninja/ Manideep Mamindlapall
 
 == Talks
 
-- \[July. `25\] - Contributed Talk on *On Minimum Rényi Entropy Couplings*, 2025 INFORMS Applied Probability Society Conference, Atlanta, USA. ([ Slides])
-- \[Sept. `24\] - IPG Annual Phd Review, *Functional representations and change-point detection*, EPFL, Switzerland. ([ Slides])
-- \[Aug. `24\] - Presentation on *In-vivo Health Monitoring for Passive Optical Networks*, Bell Labs, Murray Hill, NJ, USA. {Virtual}([ Slides]) 
+- \[July `25\] - Contributed Talk on *On Minimum Rényi Entropy Couplings*, 2025 INFORMS Applied Probability Society Conference, Atlanta, USA. ([ Slides])
+- \[July `25\] - Contributed Talk on *Approximation guarantees for Minimum Rényi Entropy Functional Representations*, at ISIT 2025, Ann Arbor, USA. ([ Slides])
+- \[May `25\] - Contributed Talk on *Leveraging Spherical Codes for Commitment over Gaussian UNCs*, at 2025 CBCrypto @ Eurocrypt, Madrid, Spain. ([cbcrypto_aky.pdf Slides])
+- \[Sept. `24\] - IPG Annual Phd Review, *Functional representations and change-point detection*, at EPFL, Switzerland. ([ Slides])
+- \[Aug. `24\] - Presentation on *In-vivo Health Monitoring for Passive Optical Networks*, at Nokia Bell Labs, Murray Hill, NJ, USA. ([ Slides]) 
 - \[July `24\] - Conference Presentation on *Wiretapped Commitment over Binary Channels* at ISIT 2024, Greece. ([isitgreece.pdf Slides])
 - \[June `23\] - Candidacy Exam Presentation on *Majorization Techniques for Entropy Bounds* at EPFL, Switzerland. ([candidacy.pdf Slides])
 - \[June `23\] -  Conference Presentation on *Information Spectrum Converse for Minimum Entropy Couplings and Functional Representations* at ISIT 2023, Taiwan. ([ISIT-FRL-PDF.pdf Slides])
