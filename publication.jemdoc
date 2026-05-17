@@ -2,9 +2,24 @@
 = Publications 
 [https://ieeexplore.ieee.org/author/37088952001 \[IEEE Xplore\]][https://scholar.google.com/citations?user=nYQ18kQAAAAJ&hl=en \[Google Scholar\]][https://orcid.org/0000-0001-7763-3787 \[ORCID\]]\n
 
-This page includes the list of my research publications, some of which are published, under review, and in preparation. Please feel free to contact me or my co-authors for the extended versions of the published work or preprints of the work yet to be published.\n
+This page includes the list of my research publications, some of which are published, under review, and in preparation. Please feel free to contact my co-authors or me for the extended versions of the published work or preprints of the work yet to be published.\n
 
 *Remark:* Publications marked with *(A2Z)* follow aphabetical author order.
+
+
+== Preprints
+
+- [https://arxiv.org/abs/2605.09655 *Geometry of Rényi Entropy on the Majorization Lattice*]\n
+Anuj Kumar Yadav and [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel] \n
+(Submitted)
+
+- [https://arxiv.org/abs/2602.13619 *Locally Private Parametric Methods for Change-point Detection*]\n
+Anuj Kumar Yadav, [https://scholar.google.com/citations?user=ObX3oOIAAAAJ&hl=en Cemre Cadir], [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel], and [https://people.epfl.ch/michael.gastpar?lang=en Michael Gastpar]\n
+(Submitted)
+
+- [https://arxiv.org/abs/2603.19648 *Heavy-Tailed and Long-Range Dependent Noise in Stochastic Approximation: A Finite-Time Analysis*]\n
+[https://scholar.google.com/citations?user=czi8jdYAAAAJ&hl=en Siddharth Chandak], Anuj Kumar Yadav, [https://profiles.stanford.edu/ayfer-ozgur Ayfer Özgür], and [https://profiles.stanford.edu/nicholas-bambos Nicholas Bambos]\n
+(Submitted)
 
 == Journals
 
@@ -18,6 +33,11 @@ Anuj Kumar Yadav and [https://www.iitp.ac.in/index.php/en-us/people-2/faculty/2-
 (*: Equal Contributions)
 
 == Conferences / Workshops
+
+- [ *Log-Likelihood loss for Semantic Compression*]\n
+Anuj Kumar Yadav, [https://scholar.google.com/citations?user=97n_BIkAAAAJ&hl=en Dan Song], [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel], and [https://profiles.stanford.edu/ayfer-ozgur Ayfer Özgür]\n
+2026 IEEE International Symposium on Information Theory (ISIT), Guangzhou, China.\n
+
 
 - [ *Approximation Guarantees for Minimum Rényi Entropy Functional Representations*]\n
 Anuj Kumar Yadav and [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel] \n

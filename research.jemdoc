@@ -30,7 +30,7 @@ CPD is a widely studied concept in statistical theory with the goal of detecting
 
 With the growing concerns regarding the misuse of personal data in today’s era, it is often undesirable to disclose sensitive information directly to the data analyst. This motivates the study of CPD in a privacy-preserving manner. We employ the notion of Differential Privacy, which is widely adopted in industry. We focus on studying fundamental limits and designing CPD algorithms under differential privacy, where the sensitive data is privatized at the source before being shared with the data analyst for the estimation of the change-point. Apart from the latency constraint, this framework introduces an added privacy constraint. Thus, our current work involves designing differentially private CPD algorithms, studying their accuracy-latency-privacy tradeoffs, and quantifying the cost of privacy.
 
-\n{{<center><img style= "width:15cm;" style="height:10cm;" src="ldpp.png"></img></center>}}\n
+\n{{<center><img style= "width:25cm;" style="height:20cm;" src="ldpp.png"></img></center>}}\n
 
 
 = Undergraduate Research Summary
