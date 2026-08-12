@@ -3,6 +3,10 @@
 
 == Posters
 
+- *Log-likelihood Loss for Semantic Compression* ([sc_oist.pdf Poster])\n
+Anuj Kumar Yadav\n
+[ 2026 Information Theory in Modern Science (ITMS)], Okinawa, Japan.\n
+
 - *Minimum Rényi Entropy Couplings* ([esit25_mec_aky.pdf Poster])\n
 Anuj Kumar Yadav\n
 [hhttps://r8.ieee.org/italy-its/ieee-esit-2025/ 2025 European School in Information Theory (ESIT)], Ancona, Italy.\n
@@ -27,6 +31,8 @@ Anuj Kumar Yadav and [https://manideepmamindlapally.ninja/ Manideep Mamindlapall
 
 == Talks
 
+- \[August `26\] - Invited Talk on *Minimum Rényi Entropy Couplings and their Applications*, INRIA, Sophia Antipolis, France. ([inria_mec.pdf Slides])
+- \[June `26\] - Contributed Talk on *Log-likelihood loss for Semantic Compression*, at ISIT 2026, Guangzhou, China. ([isit26.pdf Slides])
 - \[July `25\] - Contributed Talk on *Minimum Rényi Entropy Couplings (and Applications)*, 2025 INFORMS Applied Probability Society Conference, Atlanta, USA. ([aps25_mec.pdf Slides])
 - \[July `25\] - Contributed Talk on *Approximation guarantees for Minimum Rényi Entropy Functional Representations*, at ISIT 2025, Ann Arbor, USA. ([isit25_mec.pdf Slides])
 - \[May `25\] - Contributed Talk on *Leveraging Spherical Codes for Commitment over Gaussian UNCs*, at 2025 CBCrypto @ Eurocrypt, Madrid, Spain. ([cbcrypto_aky.pdf Slides])
@@ -37,5 +43,5 @@ Anuj Kumar Yadav and [https://manideepmamindlapally.ninja/ Manideep Mamindlapall
 - \[June `23\] -  Conference Presentation on *Information Spectrum Converse for Minimum Entropy Couplings and Functional Representations* at ISIT 2023, Taiwan. ([ISIT-FRL-PDF.pdf Slides])
 - \[June `23\] - Conference Presentation on *On the (Im)possibility of Commitment over Gaussian Unfair Noisy Channels* at ISIT 2023, Taiwan. ([ISIT-GUNC-PDF.pdf Slides])
 - \[April `23\] - Talk on *Information-theoretically secure Commitment over Noisy Channels* at EPFL, Switzerland. ([linx.pdf Slides])
-- \[Jan. `22\] - Talk on *Commitment Capacity under Cost Constraints* at [https://www.etis-lab.fr/ Laborataire ETIS], ENSEA, CNRS, France. ([ETIS_France.pdf Slides])
+- \[Jan. `22\] - Invited Talk on *Commitment Capacity under Cost Constraints* at [https://www.etis-lab.fr/ Laborataire ETIS], ENSEA, CNRS, France. ([ETIS_France.pdf Slides])
 - \[July `21\] - Conference Presentation on *Commitment over Compound Binary Symmetric Channels* at NCC 2021, India. ([https://drive.google.com/file/d/1ZoxoKywM1N5nPRv9bQDg0lEnPOUnNpb2/view?usp=sharing Slides]) ([https://drive.google.com/file/d/1DmeCC2g_Y-FRAtCsvxllGbI5nCBOp_Ha/view?usp=sharing Video])

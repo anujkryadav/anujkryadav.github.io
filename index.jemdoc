@@ -20,7 +20,7 @@ Contact: \n
 
 == Short Bio 
 
-I am a fourth year PhD student affiliated with the [https://www.epfl.ch/schools/ic/ipg/ Information Processing Group (IPG)] in the [https://www.epfl.ch/schools/ic/ School of Computer and Communication Sciences] at the [https://www.epfl.ch/ Swiss Federal Institute of Technology Lausanne (EPFL)], Switzerland. I am fortunate to be advised by [https://people.epfl.ch/yanina.shkel/?lang=en Prof. Yanina Shkel] and [https://people.epfl.ch/michael.gastpar/?lang=en Prof. Michael Gastpar]. My research interests broadly lie in the union of information theory, statistics, applied probability, privacy, and cryptography. Beyond my research endeavors, I spend time exploring the flora and fauna around me, learning languages, and reading articles on philosophy and international relations. \n
+I am a PhD student affiliated with the [https://www.epfl.ch/schools/ic/ipg/ Information Processing Group (IPG)] in the [https://www.epfl.ch/schools/ic/ School of Computer and Communication Sciences] at the [https://www.epfl.ch/ Swiss Federal Institute of Technology Lausanne (EPFL)], Switzerland. I am fortunate to be advised by [https://people.epfl.ch/yanina.shkel/?lang=en Prof. Yanina Shkel] and [https://people.epfl.ch/michael.gastpar/?lang=en Prof. Michael Gastpar]. My research interests broadly lie in the union of information theory, statistics, applied probability, privacy, and cryptography. Beyond my research endeavors, I spend time exploring the flora and fauna around me, learning languages, and reading articles on philosophy and international relations. \n
 
 In the Fall of 2025, I was a visiting student researcher at the [https://www.stanford.edu Stanford University] hosted by [https://profiles.stanford.edu/ayfer-ozgur Prof. Ayfer Ozgür]. My research visit was supported by the Swiss National Science Foundation (SNSF) mobility grant. I spent the summers of 2024 at the [https://en.wikipedia.org/wiki/Bell_Labs Nokia Bell Labs] where I worked on developing change-point detection algorithms for continuous health monitoring in access Passive Optical Networks (PONs).\n
 
@@ -37,10 +37,12 @@ Previously, I completed my bachelors with a B.Tech in Electrical Engineering fro
 == Research Interests 
 
 My specific Research Interests include:
- - Information, Coding, & Learning Theory 
+ - Information Theory 
  - Applied Probability & Statistics
  - Privacy & Cryptography
- - Communications \n
+ - Learning Theory
+
+
 
 
 == Visitors
