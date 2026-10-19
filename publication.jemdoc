@@ -9,13 +9,13 @@ This page includes the list of my research publications, some of which are publi
 
 == Preprints
 
-- [ *Couplings and Entropic Inequalities on the Majorization Lattice*]\n
+- [majorization_transIT.pdf *Couplings and Entropic Inequalities on the Majorization Lattice*]\n
 Anuj Kumar Yadav and [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel] \n
 (Submitted to IEEE Transactions on Information Theory)
 
 - [https://arxiv.org/abs/2602.13619 *Locally Private Parametric Methods for Change-point Detection*]\n
 Anuj Kumar Yadav, [https://scholar.google.com/citations?user=ObX3oOIAAAAJ&hl=en Cemre Cadir], [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel], and [https://people.epfl.ch/michael.gastpar?lang=en Michael Gastpar]\n
-(Submitted to NeurIPS 2026)
+(Under Review)
 
 - [https://arxiv.org/abs/2603.19648 *Heavy-Tailed and Long-Range Dependent Noise in Stochastic Approximation: A Finite-Time Analysis*]\n
 [https://scholar.google.com/citations?user=czi8jdYAAAAJ&hl=en Siddharth Chandak], Anuj Kumar Yadav, [https://profiles.stanford.edu/ayfer-ozgur Ayfer Özgür], and [https://profiles.stanford.edu/nicholas-bambos Nicholas Bambos]\n
@@ -34,6 +34,10 @@ Anuj Kumar Yadav and [https://www.iitp.ac.in/index.php/en-us/people-2/faculty/2-
 
 == Conferences / Workshops
 
+- [neurips_TSLIMITS.pdf *Locally Private Parametric Methods for Change-point Detection*]\n
+Anuj Kumar Yadav, [https://scholar.google.com/citations?user=ObX3oOIAAAAJ&hl=en Cemre Cadir], [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel], and [https://people.epfl.ch/michael.gastpar?lang=en Michael Gastpar]\n
+2026 NeurIPS Workshop TS-LIMITS, Paris, France.\n
+
 - [https://arxiv.org/abs/2605.09655 *Geometry of Rényi Entropy on the Majorization Lattice*]\n
 Anuj Kumar Yadav and [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel] \n
 2026 IEEE Information Theory Wokshop (ITW), Tempe, USA.\n
@@ -50,7 +54,7 @@ Anuj Kumar Yadav and [https://people.epfl.ch/yanina.shkel?lang=en Yanina Shkel] 
 
 - [cbcrypto.pdf *Leveraging Spherical Codes for Commitment over Gaussian UNCs*] \n
 Anuj Kumar Yadav, [https://manideepmamindlapally.ninja/  Manideep Mamindlapally], and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok Budkuley]\n
-2025 International Workshop on Code-Based Cryptography (CBCrypto) @ Eurocrypt, Madrid, Spain. \n
+2025 6th International Workshop on Code-Based Cryptography (CBCrypto) @ Eurocrypt, Madrid, Spain. \n
 
 - [ *DSP-Assisted In-Vivo Health Monitoring for ≥ 50G PON*]\n
 [https://scholar.google.de/citations?user=AT7ZiYYAAAAJ&hl=de Christoph Füllner], Anuj Kumar Yadav, [https://www.bell-labs.com/about/researcher-profiles/renebonk/ Rene Bonk]\n
