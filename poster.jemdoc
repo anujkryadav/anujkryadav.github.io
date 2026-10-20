@@ -3,45 +3,45 @@
 
 == Posters
 
-- *Log-likelihood Loss for Semantic Compression* ([sc_oist.pdf Poster])\n
+- *Log-Likelihood Loss for Semantic Compression* ([sc_oist.pdf Poster])\n
 Anuj Kumar Yadav\n
-[ 2026 Information Theory in Modern Science (ITMS)], Okinawa, Japan.\n
+ /2026 Information Theory in Modern Science (ITMS)/, Okinawa, Japan.\n
 
 - *Minimum Rényi Entropy Couplings* ([esit25_mec_aky.pdf Poster])\n
 Anuj Kumar Yadav\n
-[hhttps://r8.ieee.org/italy-its/ieee-esit-2025/ 2025 European School in Information Theory (ESIT)], Ancona, Italy.\n
+/2025 European School in Information Theory (ESIT)/, Ancona, Italy.\n
 
 - *Information Spectrum Converse for Minimum Entropy Couplings and Functional Representations* ([esit_poster.pdf Poster])\n
 Anuj Kumar Yadav\n
-[https://www.bristol.ac.uk/maths/events/2023/esit-2023.html 2023 European School in Information Theory (ESIT)], Bristol, United Kingdom.\n
+ /2023 European School in Information Theory (ESIT)/, Bristol, United Kingdom.\n
 
 - *Rate Positivity for Arbitrarily Varying Channels* ([CSCIT_2021_Abstract.pdf Abstract]) ([CSCIT_Poster.pdf Poster])\n
 Anuj Kumar Yadav\n
-[https://cscit.ie.cuhk.edu.hk/ 2021 Croucher Summer Course in Information Theory (CSCIT)], CUHK, Hong Kong.\n
+ /2021 Croucher Summer Course in Information Theory (CSCIT)/, CUHK, Hong Kong.\n
 
 - *Role of Costs in Commitment over Noisy Channels* ([NASIT_2021.pdf Poster])\n
 Anuj Kumar Yadav and [https://manideepmamindlapally.ninja/ Manideep Mamindlapally]\n
-[http://conferences.ece.ubc.ca/nasit2021/ 2021 IEEE North American School of Information Theory (NASIT)], UBC, Canada.\n
+/2021 IEEE North American School of Information Theory (NASIT)/, UBC, Canada.\n
 
 - *Commitment Over Unreliable Channels* ([ISIT_RR_Abstract.pdf Abstract]) ([ISIT_RR_slides.pdf Slides])\n
 \*Pranav Joshi, [https://manideepmamindlapally.ninja/ \*Manideep Mamindlapally], \*Anuj Kumar Yadav, [ Manoj Mishra], and [http://www.facweb.iitkgp.ac.in/~amitalok/index.html Amitalok J. Budkuley]\n
-2021 IEEE International Symposium on Information Theory (ISIT) Recent Results, Melbourne, Australia.\n
+/2021 IEEE International Symposium on Information Theory (ISIT) Recent Results/, Melbourne, Australia.\n
 (*: Equal contributions)
 
 
 == Talks
 
-- \[August `26\] - Invited Talk on *Minimum Rényi Entropy Couplings and their Applications*, INRIA, Sophia Antipolis, France. ([inria_mec.pdf Slides])([https://doi.org/10.60527/s749-w945 Video])
-- \[June `26\] - Contributed Talk on *Log-likelihood loss for Semantic Compression*, at ISIT 2026, Guangzhou, China. ([isit26.pdf Slides])
-- \[July `25\] - Contributed Talk on *Minimum Rényi Entropy Couplings (and Applications)*, 2025 INFORMS Applied Probability Society Conference, Atlanta, USA. ([aps25_mec.pdf Slides])
-- \[July `25\] - Contributed Talk on *Approximation guarantees for Minimum Rényi Entropy Functional Representations*, at ISIT 2025, Ann Arbor, USA. ([isit25_mec.pdf Slides])
-- \[May `25\] - Contributed Talk on *Leveraging Spherical Codes for Commitment over Gaussian UNCs*, at 2025 CBCrypto @ Eurocrypt, Madrid, Spain. ([cbcrypto_aky.pdf Slides])
-- \[Sept. `24\] - IPG Annual Phd Review, *Functional representations and change-point detection*, at EPFL, Switzerland. ([ Slides])
-- \[Aug. `24\] - Presentation on *In-vivo Health Monitoring for Passive Optical Networks*, at Nokia Bell Labs, Murray Hill, NJ, USA. ([https://drive.google.com/file/d/17xI2lKy3HeiE6YliQPQbgJ34s_qaGxp5/view?usp=drive_link Slides]) 
-- \[July `24\] - Conference Presentation on *Wiretapped Commitment over Binary Channels* at ISIT 2024, Greece. ([isitgreece.pdf Slides])
-- \[June `23\] - Candidacy Exam Presentation on *Majorization Techniques for Entropy Bounds* at EPFL, Switzerland. ([candidacy.pdf Slides])
-- \[June `23\] -  Conference Presentation on *Information Spectrum Converse for Minimum Entropy Couplings and Functional Representations* at ISIT 2023, Taiwan. ([ISIT-FRL-PDF.pdf Slides])
-- \[June `23\] - Conference Presentation on *On the (Im)possibility of Commitment over Gaussian Unfair Noisy Channels* at ISIT 2023, Taiwan. ([ISIT-GUNC-PDF.pdf Slides])
-- \[April `23\] - Talk on *Information-theoretically secure Commitment over Noisy Channels* at EPFL, Switzerland. ([linx.pdf Slides])
-- \[Jan. `22\] - Invited Talk on *Commitment Capacity under Cost Constraints* at [https://www.etis-lab.fr/ Laborataire ETIS], ENSEA, CNRS, France. ([ETIS_France.pdf Slides])
-- \[July `21\] - Conference Presentation on *Commitment over Compound Binary Symmetric Channels* at NCC 2021, India. ([https://drive.google.com/file/d/1ZoxoKywM1N5nPRv9bQDg0lEnPOUnNpb2/view?usp=sharing Slides]) ([https://drive.google.com/file/d/1DmeCC2g_Y-FRAtCsvxllGbI5nCBOp_Ha/view?usp=sharing Video])
+- \[August `26\] - Invited Talk on *Minimum Rényi Entropy Couplings and their Applications*, /INRIA/, Sophia Antipolis, France. ([inria_mec.pdf Slides]) ([https://doi.org/10.60527/s749-w945 Video])
+- \[June `26\] - Contributed Talk on *Log-likelihood loss for Semantic Compression*, at /ISIT 2026/, Guangzhou, China. ([isit26.pdf Slides])
+- \[July `25\] - Contributed Talk on *Minimum Rényi Entropy Couplings (and Applications)*, /2025 INFORMS Applied Probability Society Conference/, Atlanta, USA. ([aps25_mec.pdf Slides])
+- \[July `25\] - Contributed Talk on *Approximation guarantees for Minimum Rényi Entropy Functional Representations*, at /ISIT 2025/, Ann Arbor, USA. ([isit25_mec.pdf Slides])
+- \[May `25\] - Contributed Talk on *Leveraging Spherical Codes for Commitment over Gaussian UNCs*, at /2025 Eurocrypt Workshop CBCrypto/, Madrid, Spain. ([cbcrypto_aky.pdf Slides])
+- \[Sept. `24\] - IPG Annual PhD Review, *Functional representations and change-point detection*, at /EPFL/, Switzerland. ([ Slides])
+- \[Aug. `24\] - Presentation on *In-vivo Health Monitoring for Passive Optical Networks*, at /Nokia Bell Labs/, Murray Hill, NJ, USA. ([https://drive.google.com/file/d/17xI2lKy3HeiE6YliQPQbgJ34s_qaGxp5/view?usp=drive_link Slides]) 
+- \[July `24\] - Conference Presentation on *Wiretapped Commitment over Binary Channels* at /ISIT 2024/, Greece. ([isitgreece.pdf Slides])
+- \[June `23\] - Candidacy Exam Presentation on *Majorization Techniques for Entropy Bounds* at /EPFL/, Switzerland. ([candidacy.pdf Slides])
+- \[June `23\] -  Conference Presentation on *Information Spectrum Converse for Minimum Entropy Couplings and Functional Representations* at /ISIT 2023/, Taiwan. ([ISIT-FRL-PDF.pdf Slides])
+- \[June `23\] - Conference Presentation on *On the (Im)possibility of Commitment over Gaussian Unfair Noisy Channels* at /ISIT 2023/, Taiwan. ([ISIT-GUNC-PDF.pdf Slides])
+- \[April `23\] - Talk on *Information-theoretically secure Commitment over Noisy Channels* at /EPFL/, Switzerland. ([linx.pdf Slides])
+- \[Jan. `22\] - Invited Talk on *Commitment Capacity under Cost Constraints* at /Laborataire ETIS, ENSEA, CNRS/, France. ([ETIS_France.pdf Slides])
+- \[July `21\] - Conference Presentation on *Commitment over Compound Binary Symmetric Channels* at /NCC 2021/, India. ([https://drive.google.com/file/d/1ZoxoKywM1N5nPRv9bQDg0lEnPOUnNpb2/view?usp=sharing Slides])  ([https://drive.google.com/file/d/1DmeCC2g_Y-FRAtCsvxllGbI5nCBOp_Ha/view?usp=sharing Video])
